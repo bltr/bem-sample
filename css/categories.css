@@ -1,0 +1,16 @@
+.categories {
+}
+
+.categories__link {
+    border: 1px solid #000;
+    display: block;
+    text-align: center;
+    padding: 7px 0;
+    margin: 10px 0;
+    color: #00f;
+}
+
+.categories__link--active {
+    background-color: #f00;
+    color: #fff;
+}

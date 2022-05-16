@@ -1,0 +1,16 @@
+.main {
+    display: flex;
+}
+
+.main__sidebar {
+    flex-basis: 200px;
+}
+
+.main__center {
+    flex-basis: calc(100% - 2 * 200px);
+    margin: 0 15px;
+}
+
+.main__sidebar-slot {
+    margin: 20px 15px;
+}

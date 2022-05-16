@@ -1,0 +1,13 @@
+.phone {
+
+}
+
+.phone__tel {
+    font-size: 24px;
+    line-height: 30px;
+    color: #000;
+}
+
+.phone__tel:hover {
+    text-decoration: none;
+}
